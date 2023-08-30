@@ -1,0 +1,5 @@
+1- O Usuário deseja um software para coordenar um trem de linha infinita para o infinito e alem, portanto ele precisa de uma maneira de saber onde o trem esta atualmente apenas sabendo a direção que ele tomou
+
+2- O usuário deseja que o software permita a escolha de trilho infinito e finito, portanto ele precisa que o mesmo trem rode em um trilho que varia de -2 a +10 e que  nunca deve extrapolar os limites.
+
+3- O usuário deseja informar a posição inicial e a lista de comandos completas, portanto ele precisa que o software atenda esse requisito alem de aceitar no máximo 30 comandos.
